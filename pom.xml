@@ -79,6 +79,12 @@
             <artifactId>spring-test</artifactId>
             <version>4.3.7.RELEASE</version>
         </dependency>
+        <!--jsonobject-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.28</version>
+        </dependency>
     </dependencies>
 
     <build>
